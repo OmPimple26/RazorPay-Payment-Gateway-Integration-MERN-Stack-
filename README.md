@@ -131,7 +131,7 @@ RAZORPAY_SECRET=your_secret
 > Start Backend
 
 ```
-npm run dev
+nodemon .\server.js
 ```
 
 > Start Frontend
