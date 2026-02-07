@@ -1,0 +1,2 @@
+# RazorPay-Payment-Gateway-Integration-MERN-Stack-
+A full-stack payment integration project built using the MERN stack, featuring secure Razorpay checkout, order creation, and payment verification. 🚀 Designed with best practices for API handling and backend security, this project demonstrates real-world payment workflow implementation—perfect for learning production-ready integrations. 🔐⚡
